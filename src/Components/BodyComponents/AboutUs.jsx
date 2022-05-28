@@ -15,7 +15,7 @@ export default function AboutUs() {
   const cardMediaData = [
     {
       title: " Web Development",
-      description: "Lorem ipsum dolor sit amet Consectetur adipisicing elit.",
+      description: "olor sit amet Consectetur adipisicing elit.",
       icon: <DashboardIcon />,
     },
     {
